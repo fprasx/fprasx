@@ -23,14 +23,14 @@ Ode to Rust️
 while let, if let, where to go?
 enums, patterns, control flow
 
-Dynamic dispatch, impl trait
-Lifetime bounds: tick-b, tick-a
+dynamic dispatch, impl trait
+lifetime bounds: tick-b, tick-a
 
-Trait bounds too - implied and derived
+trait bounds too - implied and derived
 borrow check finished, my code survived!
 
-Borrowed, boxed, or placed in an Arc
-Rust lives for tick-static, inside my heart
+borrowed, boxed, or placed in an Arc
+rust lives for tick-static, inside my heart
 
 Felix Prasanna 2023
 ```
