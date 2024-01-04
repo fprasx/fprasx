@@ -1,21 +1,9 @@
 # Hello :)
 
-My name's Felix, and I'm an undergraduate student at MIT. I'm interested in most
+I'm Felix, a sophomore student at MIT. I'm interested in most
 things low-level or performance sensitive. Within these areas, I'm specifically
-interested in developer tooling - abstraction and productivity often have a 
-performance cost.
-
-I'm interested in:
-* developer tooling like languages, compilers, linters, debuggers
-* software that developers use like databases, web frameworks
-* useful libraries like fast implementations of data structures
-
-Some example technologies I would love to work on:
-* Turbopack
-* Svelte
-* Rust
-
-I am an avid Rustacean!
+interested in developer tooling like compilers, because I like enjoy the feeling
+of enabling fellow developers.
 
 ```
 Ode to Rust️
