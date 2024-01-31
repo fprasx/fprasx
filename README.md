@@ -2,7 +2,7 @@
 
 I'm Felix, a sophomore student at MIT. I'm interested in most
 things low-level or performance sensitive. Within these areas, I'm specifically
-interested in developer tooling like compilers, because I like enjoy the feeling
+interested in developer tooling like compilers, because I enjoy the feeling
 of enabling fellow developers.
 
 ```
